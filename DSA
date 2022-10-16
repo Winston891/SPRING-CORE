@@ -1,0 +1,1831 @@
+Good evening every one
+
+welcome to durgasoft online training...
+
+welcome to Data Structures and Algorithms with Java Batch:01
+
+K Prakash Babu, 16 Years as Technical Trainer.
+
+Data Structures ----> 
+Algorithms --------->
+Language -----------> Java
+
+http://www.durgasoft.com/DSAwithJAVA-Prakash-Online.asp
+
+https://www.youtube.com/watch?v=1GjEBFdmpqA&list=PLd3UqWTnYXOnf4Vmn_mOlmzRzrTJo4ud2
+
+Chapter: 01 Introduction to DSA
+
+Chapter: 02 Problem Solving
+
+Chapter: 03 Time and Space Complexity
+
+Chapter: 04 Notations
+
+Chapter: 05 Aspects of Algorithms
+
+Chapter: 06 Mathematical Algorithms
+
+Chapter: 07 Bitwise opertations
+
+Chapter: 08 Recursion
+
+Chapter: 09 Arrays
+
+Chapter: 10 Matrix
+
+Chapter: 11 Searching and Sorting Techniques
+
+Chapter: 12 LinkedLists
+
+Chapter: 13 Stacks (LIFO)
+
+Chapter: 14 Queues
+
+Chapter: 15 Binary Trees
+
+Chapter: 16 Hashtables
+
+Chapter: 17 Hashing
+
+Chapter: 18 AVL Tree
+
+Chapter: 19 Dictionaries or Maps
+
+Chapter: 20 Graph
+
+Chapter: 21 Greedy
+
+Chapter: 22 Backtracking
+
+Chapter: 23 Dynamic programming
+
+duration ---> 2 to 3 months
+timings ----> 7pm to 8pm [mon-fri]
+fees -------> Rs. 999/-
+
+7207212427
+9246212143
+
+core java batch is running at 7am morning ---> 6 class completed ---> Rs. 5000/-
+
+Logic Based Programming -----> 8PM ---> 20/350 ---> C/Java/Python --> Rs. 2000/-
+
+https://us02web.zoom.us/meeting/register/tZwkdeGtqz0iHNL6acB93gTQKRrg4IRpLNcs
+
+https://www.youtube.com/watch?v=OG3gJxp6y_A&list=PLd3UqWTnYXOl1Qwbsqa3gDJieL3o9zmPP
+
+https://www.youtube.com/watch?v=1GjEBFdmpqA&t=9s
+
+
+Music Players ----> Jio Savan, Spotify, Prime Music etc
+=============
+To implement music player application, internally they are using data structures
+
+data ---> .mp3 songs 
+
+searching, sorting, queue
+
+Linked List ----> Music Players
+
+Spam email detection ---> rxxxxxxxxx@gmail.com
+====================
+
+10 Unknown companies ---> 10 spam per day
+
+throw 'xyz' ----> spam
+
+will you just explain the data structure or do its coding also?
+
+Yes, main target is T+C --> Coding with Java
+
+String Data Structure ----> spam emails
+
+abcdf@xyz.com ----> "xyz.com"
+
+BookMyShow Application ---> movie ticket application
+======================
+
+Array Data Structure ---> 2-D arrays ---> resevation of seats
+
+sir actually we don't use the logic behind this DSA(we simply import) 
+then why we have to learn.
+(sir please don't mind hope this is a good question)
+
+class MyLinkedList{
+	----------------
+	----------------
+	----------------
+	----------------
+}
+
+LinkedList LL = new LinkedList();
+
+
+Data Structure:
+----------------
+
+Arranging data in a proper structure is called as Data Structures or Organizing Data is called as Data Structure.
+
+The following are the various operations, that we can able to perform on data structures
+
+	1. inserting new data
+	2. removal of existing data
+	3. updating or replacement of data
+	4. searching (linar, binary)
+	5. sorting (15+ sorting)
+	etc
+
+If we use above algorithms very effecively on data structures then so many factors will be improved
+
+Student Data ----> read ---> ArrayList/Array
+Student Data ----> insert -> LinkedList
+
+Algorithm:
+----------
+
+==> Step by step process to solve a problem is called as an algorithm.
+==> Here we will concentrate on design part but not on implementation (Java).
+==> no syntax, english instructions.
+
+Problem Statement:
+------------------
+Implement a program to perform addition of two numbers.
+
+Alg:
+	1. read two numbers from the user.
+	2. use arithmetic operators to calculate result/addition.
+	3. c = a + b;
+	4. print result to the console,screen,file or data base.
+
+Implementation:
+	
+	int addition(int a,int b)
+	{
+		int c;
+		c = a + b;
+		return c;
+	}
+
+Ex:
+class Demo
+{
+	static int addition(int a,int b)
+	{
+		int c;
+		c = a + b;
+		return c;
+	}
+}
+
+class Test 
+{
+	public static void main(String[] args) 
+	{
+		System.out.println(Demo.addition(1,2));//3
+		System.out.println(Demo.addition(2,3));//5
+	}
+}
+
+C:\Users\redpr>cd\
+
+C:\>cd prakashclasses
+
+C:\prakashclasses>javac Test.java
+
+C:\prakashclasses>java Test
+3
+5
+
+Photos in Gallery
+=================
+==> Which DS followed in Gallery Application
+==> Stack
+
+Sending emails to the persons
+=============================
+==> 200 students
+==> send a mail to all students
+==> Data Structure: Queue
+
+File Explorere | Directory Explorer | Folder Explorer
+======================================================
+==> c:/prakashclasses/
+==> Data Structure: Tree
+
+GPS Navigation System
+======================
+==> Travel from one location to another location
+==> Data Structure: Graph
+
+
+trending videos in youtube which data strucure is used sir?
+-----------------------------------------------------------
+Priority Queue
+
+Q ---> V1(2M), V2(5M), V3(1M), V4(6M), V5(3M)
+
+Sorting ---> V4, V2, V5, V1, V3
+
+durgasoftonlinetraining@gmail.com
+Bank name: ICICI
+Account Holder's Name: DURGASOFT TRAINING SERVICES PVT LTD
+Type : Current Account
+Account No: 236305500267
+IFSC Code: ICIC0002363
+Hyderabad - 500038
+Telangana
+
+GOOGLE PAY/PHONE PAY NUMBER
+9297972727
+
+
+LBP vs DSAJ
+
+LBP ---> Logical Thinking and Coding Skills
+DSAJ --> Datastructures and Algorithms by using Java 
+
+
+PROBLEM STATEMENT:
+-----------------
+Write a program to swap given two integer values.
+-------------------------------------------------
+Algorithm:
+	
+	==> read two parameters from the user.
+	==> implement business logic related to swaping
+		
+		Logic1
+		Logic2
+		Logic3
+		Logic4
+		Logic5
+
+	==> print the data before swaping and after swaping
+
+Note: In Java call by reference concept not threre.
+
+Logic1:
+	 ==> declare one temp variable 'temp'
+	 ==> print a and b values
+	 ==> 
+	 	temp = a;
+		a = b;
+		b = temp;
+
+	 ==> print a and b value
+
+Implementation:
+---------------
+import java.util.*;
+
+class Demo
+{
+	static void swap(int a,int b)
+	{
+		System.out.println("before swaping a="+a+" and b="+b);
+		int t;
+		t = a;
+		a = b;
+		b = t;
+		System.out.println("after swaping a="+a+" and b="+b);
+	}
+}
+
+class Test 
+{
+	public static void main(String[] args) 
+	{		
+		Scanner obj = new Scanner(System.in);
+		System.out.println("Enter a value");
+		int a = obj.nextInt();
+		System.out.println("Enter b value");
+		int b = obj.nextInt();
+		Demo.swap(a,b);
+	}
+}
+
+C:\prakashclasses>javac Test.java
+
+C:\prakashclasses>java Test
+Enter a value
+10
+Enter b value
+12
+before swaping a=10 and b=12
+after swaping a=12 and b=10
+
+Logic2:
+	 ==> print a and b values
+	 ==> by using addition and subtraction
+
+	 	a = a + b;
+		b = a - b;
+		a = a - b;	 	
+
+	 ==> print a and b value
+
+Implementation:
+---------------
+import java.util.*;
+
+class Demo
+{
+	static void swap(int a,int b)
+	{
+		System.out.println("before swaping a="+a+" and b="+b);
+		a = a + b;
+		b = a - b;
+		a = a - b;
+		System.out.println("after swaping a="+a+" and b="+b);
+	}
+}
+
+class Test 
+{
+	public static void main(String[] args) 
+	{		
+		Scanner obj = new Scanner(System.in);
+		System.out.println("Enter a value");
+		int a = obj.nextInt();
+		System.out.println("Enter b value");
+		int b = obj.nextInt();
+		Demo.swap(a,b);
+	}
+}
+
+C:\prakashclasses>javac Test.java
+
+C:\prakashclasses>java Test
+Enter a value
+4
+Enter b value
+8
+before swaping a=4 and b=8
+after swaping a=8 and b=4
+
+Logic3:
+	 ==> print a and b values
+	 ==> by using multiplication and division
+
+	 	a = a * b;
+		b = a / b;
+		a = a / b;	 	
+
+	 ==> print a and b value
+
+Implementation:
+---------------
+import java.util.*;
+
+class Demo
+{
+	static void swap(int a,int b)
+	{
+		System.out.println("before swaping a="+a+" and b="+b);
+		a = a * b;
+		b = a / b;
+		a = a / b;
+		System.out.println("after swaping a="+a+" and b="+b);
+	}
+}
+
+class Test 
+{
+	public static void main(String[] args) 
+	{		
+		Scanner obj = new Scanner(System.in);
+		System.out.println("Enter a value");
+		int a = obj.nextInt();
+		System.out.println("Enter b value");
+		int b = obj.nextInt();
+		Demo.swap(a,b);
+	}
+}
+
+C:\prakashclasses>javac Test.java
+
+C:\prakashclasses>java Test
+Enter a value
+4
+Enter b value
+8
+before swaping a=4 and b=8
+after swaping a=8 and b=4
+
+Algorithm:
+----------
+
+==> Step by step process to solve a problem is called as an algorithm.
+==> Here we will concentrate on design part but not on implementation (Java).
+==> no syntax, english instructions.
+
+
+Priori Analysis				   Posteriori Analysis
+----------------		           -------------------
+1. Algorithm				   1. Program
+2. Indepedent of programming lang	   2. Language dependent
+3. H/W independent			   3. H/W dependent
+4. time and space complexities notations   4. time and space will be measured in bytes and sec
+
+
+Logic1: using temp variable
+Logic2: without temp variable using add and sub
+Logic3: without temp variable using mul and div
+
+Logic4: without using temp variable using bitwise operators
+------------------------------------------------------------
+	 ==> print a and b values
+	 ==> by using bitwise operators
+
+	 	a = a ^ b;
+		b = a ^ b;
+		a = a ^ b;	 	
+
+	 ==> print a and b value
+
+Note: Dec into Bin and Bin into Dec
+
+Implementation:
+---------------
+import java.util.*;
+
+class Demo
+{
+	static void swap(int a,int b)
+	{
+		System.out.println("before swaping a="+a+" and b="+b);
+		a = a ^ b;
+		b = a ^ b;
+		a = a ^ b;
+		System.out.println("after swaping a="+a+" and b="+b);
+	}
+}
+
+class Test 
+{
+	public static void main(String[] args) 
+	{		
+		Scanner obj = new Scanner(System.in);
+		System.out.println("Enter a value");
+		int a = obj.nextInt();
+		System.out.println("Enter b value");
+		int b = obj.nextInt();
+		Demo.swap(a,b);
+	}
+}
+
+C:\prakashclasses>javac Test.java
+
+C:\prakashclasses>java Test
+Enter a value
+11
+Enter b value
+22
+before swaping a=11 and b=22
+after swaping a=22 and b=11
+
+C:\prakashclasses>java Test
+Enter a value
+-2
+Enter b value
+-3
+before swaping a=-2 and b=-3
+after swaping a=-3 and b=-2
+
+Logic5: without using temp variable by using single line
+------------------------------------------------------------
+	 ==> print a and b values
+	 ==> by using single line
+
+	 	a = (a+b) - (b=a);	 	
+
+	 ==> print a and b value
+
+Implementation:
+---------------
+import java.util.*;
+
+class Demo
+{
+	static void swap(int a,int b)
+	{
+		System.out.println("before swaping a="+a+" and b="+b);
+		a = a+b-(b=a);
+		System.out.println("after swaping a="+a+" and b="+b);
+	}
+}
+
+class Test 
+{
+	public static void main(String[] args) 
+	{		
+		Scanner obj = new Scanner(System.in);
+		System.out.println("Enter a value");
+		int a = obj.nextInt();
+		System.out.println("Enter b value");
+		int b = obj.nextInt();
+		Demo.swap(a,b);
+	}
+}
+
+C:\prakashclasses>javac Test.java
+
+C:\prakashclasses>java Test
+Enter a value
+12
+Enter b value
+13
+before swaping a=12 and b=13
+after swaping a=13 and b=12
+
+
+
+DESIGN A PROGRAM TO FIND MAX OF TWO NUMBERS:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Algorithm:
+----------
+		
+	 1. read two numbers from the user as a and b
+
+	 2. apply logic
+
+	    version1:
+	    		conditional operator
+
+			(condition)?tb:fb
+
+			(a>b)?a:b
+	    version2:
+	    		Math.max(a,b)
+
+	 3. print the result
+
+can we check how the Math.max logic implemented internally --> abstraction
+
+Implementation:
+---------------
+import java.util.*;
+
+class Demo
+{
+	static int max_version1(int a,int b)
+	{
+		//manual code
+		return (a>b)?a:b;
+	}
+
+	static int max_version2(int a,int b)
+	{
+		//predefined lib's
+		return Math.max(a,b);
+	}
+}
+
+class Test 
+{
+	public static void main(String[] args) 
+	{		
+		Scanner obj = new Scanner(System.in);
+		System.out.println("Enter a value");
+		int a = obj.nextInt();
+		System.out.println("Enter b value");
+		int b = obj.nextInt();
+		System.out.println("max value from version1= "+Demo.max_version1(a,b));
+		System.out.println("max value from version2= "+Demo.max_version2(a,b));
+	}
+}
+
+DESIGN A PROGRAM TO FIND WHETHER THE GIVEN NUMBER IS EVEN OR ODD:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Algorithm:
+----------
+
+	1. read number 'n' value from user
+	2. if n is divisible by 2 means 'even' else 'odd'
+
+		if(n%2==0)
+			print even
+		else
+			print odd
+Implementation:
+---------------
+import java.util.*;
+
+class Demo
+{
+	static String check_evenorodd(int n)
+	{
+		//manual code
+		return (n%2==0)?"EVEN NUMBER":"ODD NUMBER";
+	}
+
+}
+
+class Test 
+{
+	public static void main(String[] args) 
+	{		
+		Scanner obj = new Scanner(System.in);
+		System.out.println("Enter n value");
+		int n = obj.nextInt();
+		System.out.println(Demo.check_evenorodd(n));
+	}
+}
+
+C:\prakashclasses>javac Test.java
+
+C:\prakashclasses>java Test
+Enter n value
+34
+EVEN NUMBER
+
+C:\prakashclasses>java Test
+Enter n value
+55
+ODD NUMBER
+
+DESIGN A PROGRAM TO FIND SUM OF 'N' NATURAL NUMBERS:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Algorithm:
+----------
+	1. read 'n' value from the user.
+	2. apply the logic to find sum of n natural numbers
+
+	   Logic1:
+	   	   sum=0;
+		   for(i=1;i<=n;i++)
+		   {
+		   	sum=sum+i;
+		   }
+
+	   Logic2:
+	   	   int sum(int n)
+		   {
+		   	if(n==0)
+				return 1;
+			else
+				return n+sum(n-1);
+		   }
+	   Logic3:
+	           math formula ---> n*(n+1)/2
+	3. print result on the screen
+
+
+Implementation:
+---------------
+import java.util.*;
+
+class Demo
+{
+	static int sumofn_v1(int n)
+	{
+		//for loop
+		int sum=0;
+		for(int i=1;i<=n;i++)
+		{
+			sum=sum+i;
+		}
+		return sum;
+	}
+
+	static int sumofn_v2(int n)
+	{
+		//recursion
+		if(n==0)
+			return 0;
+		else
+			return n+sumofn_v2(n-1);
+	}
+
+	static int sumofn_v3(int n)
+	{
+		//math formula
+		return (n*(n+1))/2;
+	}
+}
+
+class Test 
+{
+	public static void main(String[] args) 
+	{		
+		Scanner obj = new Scanner(System.in);
+		System.out.println("Enter n value");
+		int n = obj.nextInt();
+		System.out.println(Demo.sumofn_v1(n));
+		System.out.println(Demo.sumofn_v2(n));
+		System.out.println(Demo.sumofn_v3(n));
+	}
+}
+
+
+C:\prakashclasses>javac Test.java
+
+C:\prakashclasses>java Test
+Enter n value
+5
+15
+15
+15
+
+IMPLEMENT A PROGRAM TO READ THREE NUMBERS FROM THE USER AND CAL MAX OF THREE NUMBERS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Algorithm:
+
+	 1. read a,b and c values from user.
+
+	 2. apply the logic
+
+	    logic1:  by using manual method
+
+	    	     (a>b && a>c)?a:((b>c)?b:c)
+
+	    logic2:  by using max method in math
+
+	    	     Math.max(Math.max(number1,number2),number3)
+
+	 3. print the result
+
+Implementation:
+---------------
+import java.util.*;
+
+class Demo
+{
+	static int max1(int a,int b,int c)
+	{
+		return (a>b && a>c)?a:(b>c?b:c);
+	}
+	
+	static int max2(int a,int b,int c)
+	{
+		return Math.max(Math.max(a,b),c);
+	}
+}
+
+class Test 
+{
+	public static void main(String[] args) 
+	{		
+		Scanner obj = new Scanner(System.in);
+		System.out.println("Enter a value");
+		int a = obj.nextInt();
+		System.out.println("Enter b value");
+		int b = obj.nextInt();
+		System.out.println("Enter c value");
+		int c = obj.nextInt();
+		System.out.println(Demo.max1(a,b,c));
+		System.out.println(Demo.max2(a,b,c));
+	}
+}
+
+C:\prakashclasses>javac Test.java
+
+C:\prakashclasses>java Test
+Enter a value
+1
+Enter b value
+2
+Enter c value
+3
+3
+3
+
+C:\prakashclasses>java Test
+Enter a value
+1
+Enter b value
+2
+Enter c value
+-3
+2
+2
+
+C:\prakashclasses>java Test
+Enter a value
+1
+Enter b value
+-2
+Enter c value
+-3
+1
+1
+
+IMPLEMENT A PROGRAM TO FIND FACTORIAL OF THE GIVEN NUMBER
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Algorithm:
+
+	  1. read n value from the user.
+
+	  2. apply any one of the following logic
+
+	  logic1:
+		  by using looping
+
+		  f=1;
+		  for(i=1;i<=n;i++)
+		  {
+		  	f=f*i;
+		  }
+		  print f
+
+	  logic2:
+	  	
+		  by using recursion
+
+		  int fact(int n)
+		  {
+		  	if(n==1)
+				return 1;
+			else
+				return n*fact(n-1);
+		  }
+
+	  3. print the result
+
+IMPLEMENTATION:
+---------------
+class Demo
+{
+	static int fact1(int n)
+	{
+		//loop
+		int i,f=1;
+		for(i=1;i<=n;i++)
+		{
+			f=f*i;
+		}
+		return f;
+	}
+	
+	static int fact2(int n)
+	{
+		//recursion
+		if(n==1 || n==0)
+			return 1;
+		else
+			return n*fact2(n-1);
+	}
+}
+
+class Test 
+{
+	public static void main(String[] args) 
+	{		
+		java.util.Scanner obj = new java.util.Scanner(System.in);
+		System.out.println("Enter n value");
+		int n = obj.nextInt();
+		if(n>=0)
+		{
+		System.out.println("factorial by using loop = "+Demo.fact1(n));
+		System.out.println("factorial by using recursion = "+Demo.fact2(n));
+		}
+		else
+			System.out.println("Arey what happend to you factorial for -ve num not existed");
+	}
+}
+
+C:\prakashclasses>javac Test.java
+
+C:\prakashclasses>java Test
+Enter n value
+0
+factorial by using loop = 1
+factorial by using recursion = 1
+
+C:\prakashclasses>java Test
+Enter n value
+-9
+Arey what happend to you factorial for -ve num not existed
+
+C:\prakashclasses>
+
+IMPLEMENT A PROGRAM TO CHECK WHETHER THE GIVEN NUMBER IS PRIME OR NOT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Algorithm:
+
+	  1. read a number 'n' from the user.
+	  
+	  2. apply logic
+
+	  logic1:
+	  	  by using loop
+
+		  factors = 0
+		  for(i=1;i<=n;i++)
+		  {
+		  	if(n%i==0)
+			   factors++;
+		  }
+		  if factors==2 then print "Yes" else "No"
+
+ 	  logic2:
+	          by using recursion
+
+		  boolean isPrime(int n,int i) //i=n/2
+		  {
+		  	if(i==1)
+			   return true;
+			else if(n%i==0)
+			   return false;
+			else
+			   return isPrime(n,--i);
+		  }
+	  
+	  3. print the status "Yes" or "No"
+	
+
+implementation:
+---------------
+class Demo
+{
+	static boolean isPrime1(int n)
+	{
+		//loop
+		int i,f=0;
+		for(i=1;i<=n;i++)
+		{
+			if(n%i==0)
+				f++;
+		}
+		return f==2;
+	}	
+	static boolean isPrime2(int n,int i)
+	{
+		//recursion
+		if(i==1)
+			return true;
+		else if(n%i==0)
+			return false;
+		else
+			return isPrime2(n,--i);
+	}	
+}
+
+class Test 
+{
+	public static void main(String[] args) 
+	{		
+		java.util.Scanner obj = new java.util.Scanner(System.in);
+		System.out.println("Enter n value");
+		int n = obj.nextInt();
+		for(int i=2;i<=n;i++)
+		{
+System.out.println(i+"\t"+(Demo.isPrime1(i)?"Yes":"No")+"\t"+(Demo.isPrime2(i,i/2)?"Yes":"No"));
+		}
+	}
+}
+
+
+IMPLEMENT A PROGRAM/ALG TO GENERATE FIBNOCCI NUMBERS
+----------------------------------------------------
+sum of previous two numbers, where the series starts from 0,1
+
+	0, 1  ----> 0, 1, 1, 2, 3, 5, 8, 13, .....
+
+algorithm:
+----------
+	
+	1. read n value from the user.
+	2. Create Array List object
+	3. push all the calcualte fib seq, into array list
+
+	   logic:
+
+	   a = 0;
+	   b = 1;
+	   obj.add(a);
+	   obj.add(b);
+	   for(i=1;i<=n-2;i++)
+	   {
+	   	c=a+b;
+		obj.add(c);
+		a=b;
+		b=c;
+	   }
+
+	4. print array list
+
+
+implementation:
+---------------
+import java.util.*;
+
+class Demo
+{
+	static ArrayList<Integer> getFibonacciNums(int n)
+	{
+		int a,b,c,i;
+		ArrayList<Integer> al = new ArrayList<Integer>();
+		a = 0;
+		b = 1;
+		al.add(a);
+		al.add(b);
+		for(i=1;i<=n-2;i++)
+		{
+			c=a+b;
+			al.add(c);
+			a=b;
+			b=c;
+		}
+		return  al;
+	}	
+}
+
+class Test 
+{
+	public static void main(String[] args) 
+	{		
+		java.util.Scanner obj = new java.util.Scanner(System.in);
+		System.out.println("Enter n value");
+		int n = obj.nextInt();
+		System.out.println(Demo.getFibonacciNums(n));
+	}
+}
+
+C:\prakashclasses>javac Test.java
+
+C:\prakashclasses>java Test
+Enter n value
+5
+[0, 1, 1, 2, 3]
+
+C:\prakashclasses>java Test
+Enter n value
+10
+[0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+
+
+IMPLEMENT A PROGRAM/ALG TO GENERATE TRIBONACCI NUMBERS
+----------------------------------------------------
+sum of previous three numbers, where the series starts from 0,1,2
+
+	0, 1, 2  ----> 0, 1, 2, 3, 6, 11, 20, ....
+
+algorithm:
+----------
+	
+	1. read n value from the user.
+	2. Create Array List object
+	3. push all the calcualte trib seq, into array list
+
+	   logic:
+
+	   a = 0;
+	   b = 1;
+	   c = 2;
+	   obj.add(a);
+	   obj.add(b);
+	   obj.add(c);
+	   for(i=1;i<=n-3;i++)
+	   {
+	   	d=a+b+c;
+		obj.add(d);
+		a=b;
+		b=c;
+		c=d;
+	   }
+
+	4. print array list
+
+
+implementation:
+---------------
+import java.util.*;
+
+class Demo
+{
+	static ArrayList<Integer> getTribonacciNums(int n)
+	{
+		int a,b,c,d,i;
+		ArrayList<Integer> al = new ArrayList<Integer>();
+		a = 0;
+		b = 1;
+		c = 2;
+		al.add(a);
+		al.add(b);
+		al.add(c);
+		for(i=1;i<=n-3;i++)
+		{
+			d=a+b+c;
+			al.add(d);
+			a=b;
+			b=c;
+			c=d;
+		}
+		return  al;
+	}	
+}
+
+class Test 
+{
+	public static void main(String[] args) 
+	{		
+		java.util.Scanner obj = new java.util.Scanner(System.in);
+		System.out.println("Enter n value");
+		int n = obj.nextInt();
+		System.out.println(Demo.getTribonacciNums(n));
+	}
+}
+
+
+C:\prakashclasses>javac Test.java
+
+C:\prakashclasses>java Test
+Enter n value
+10
+[0, 1, 2, 3, 6, 11, 20, 37, 68, 125]
+
+-------------------------------xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-------------------------------
+
+(Session - 003)
+
+Performance of an algorithm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+we can measure performance of an algorithm by using the following two components.
+
+1. space complexity
+2. time complexity
+
+space complexity:
+-----------------
+=> the space complexity of an algorithm is the amount of memory, it needs to run to complete task.
+
+=> space complexity of any algorithm is calculate as,
+
+	s(p) = fixed_part + variable_part
+
+=> fixed part --> independent of instance characterstics
+	      --> space for variables, space for constants etc
+	
+=> variable_part --> dependent of instance characterstics
+                 --> looping variables, arrays etc
+
+
+Ex: addition of three numbers.
+------------------------------
+algorithm addition(a,b,c)
+{
+	return a+b+c;
+}
+
+
+space complexity -----> 
+			a ---> 1 unit
+			b ---> 1 unit
+			c ---> 1 unit
+			-------------
+			total: 3 units
+			--------------
+
+sp(addition) = 3 units
+
+Ex: area of circle
+------------------
+algorithm areaofcircle(raidus)
+{
+	result = 3.147*radius*radius;
+	return result;
+}
+
+space complexity -----> 
+			radius ---> 1 unit
+			3.147  ---> 1 unit
+			result ---> 1 unit
+			------------------
+			total: 3 units
+			------------------
+
+sp(addition) = 3 units
+
+
+Ex: area of circle
+------------------
+algorithm areaofcircle(raidus)
+{
+	return 3.147*radius*radius;
+}
+
+space complexity -----> 
+			radius ---> 1 unit
+			3.147  ---> 1 unit
+			------------------
+			total: 2 units
+			------------------
+
+sp(addition) = 2 units
+
+
+bits/bytes/kb/mb/gb/tb/pb etc
+
+2 x 4 bytes = 8 bytes
+
+int a = 5;
+
+sp(alg) = 1 unit
+
+
+Ex:
+
+String s = "java";
+
+sp(s) = 1 unit
+
+c---> 1
+py -> 1 
+java-> 1 unit
+
+Ex:
+
+int i = null;
+
+1 unit
+
+Ex: sum of 'n' natural numbers
+------------------------------
+
+algorithm sum_of_n(n)
+{
+	s=0;
+	for(i=0;i<=n;i++)
+	{
+		s=s+i;
+	}
+	return s;
+}
+
+space complexity ------>
+			
+			n ----> 1 unit
+			s ----> 1 unit
+			i ----> 1 unit
+			--------------
+			total-> 3 units
+			---------------
+	
+Ex: sum of elements in an array 'a'
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+algorithm sum_array(a,n)
+{
+	s=0;
+	for(i=0;i<n;i++)
+	{
+		s=s+a[i];
+	}
+	return s;
+}
+
+
+space complexity ------>
+			a ----> n units
+			n ----> 1 unit
+			s ----> 1 unit
+			i ----> 1 unit
+			-----------------
+			sp ---> n+3 units
+			------------------
+
+
+Ex: sum of elements present in an array by using recursion
+----------------------------------------------------------
+algorithm sum_of_elements_recursion(a,n)
+{
+	if(n<0)
+		return 0;
+	else
+		return sum_of_elements_recursion(a,n-2)+a[n-1];
+}
+
+space complexity ----->
+			Rsum(a,n) -----> 1(a[n-1]) + 1(n) + 1(return) ---> 3 units
+			Rsum(a,n-1) ---> 1(a[n-2]) + 1(n) + 1(return) ---> 3 units
+			.
+			.
+			.
+			.
+			Rsum(a,n-n) --> 1(a[n-n]) + 1(n) + 1(return) ----> 3 units
+			-----------------------------------------------------------
+			total space complexity ----> 3(n+1) ===> 3n+3
+			-----------------------------------------------------------
+      
+Summary : 
+
+Space Complexity : 
+
+    1.Variables are mainly focused to calculate space complexity.
+    
+    2.They are calculated as units because size of each variables varies for each technology.
+    
+    3.array variable holds 'n' units because it contains 'n' values
+    
+    4.return statements holds '1' unit during recursion.
+    
+    5.Values are stored as stack during recursion.
+    
+    ---------------------------------xxxxxxxxxxxxxxxxxxxxxxxx----------------------------
+
+
+
+Ex: Factorial of the given number using recursion
+-------------------------------------------------
+
+algorithm fact(n)
+{
+	if(n==0)
+		return 1;
+	else
+		return n*fact(n-1);
+}
+
+
+space complexicity ------> 
+				f(n) = 1 + 1
+				f(n-1) = 1 + 1
+				f(n-2) = 1 + 1
+				.
+				.
+				f(n-(n-1)) = 1 + 1
+				f(n-n) = 1
+				--------------------
+				sp(fact) = 2n+1 units
+				---------------------
+
+			   
+Ex: space complexity for prime number or not application using recursion
+--------------------------------------------------------------------------
+algorithm isprime(n,i)
+{
+	if(i==1)
+		return true;
+	else if(n%i==0)
+		return false;
+	else
+		return isprime(n,--i);
+}
+
+sp(isprime) ----->
+		    isprime(n) -----> 2
+		    isprime(n-1) -----> 2
+		    isprime(n-2) -----> 2
+		    isprime(n-3) -----> 2
+		    isprime(n-n) -----> 1 or 1
+		    ---------------------------
+		    sp(isprime) = 2n+1
+		    ---------------------------
+		 
+time complexity:
+----------------
+the time complexity of an algorithm is the amount of computer time it needs to complete the task.
+
+tc(p) = compile time + execution time
+      = execution time (ignore compile time, compilation will be done only one time)
+     
+step count method to calculate time complexity
+----------------------------------------------
+1) for algorithm heading ------> 0
+2) for braces -----------------> 0
+3) for expressions ------------> 1 
+4) for if conditions ----------> 1
+5) for loops ------------------> based on number of iterations 'n'
+
+java code for sorting ----> 10 lines
+py code ------------------> 1 line L.sort()
+
+Ex: addition of three numbers
+------------------------------
+1: algorithm addition(a,b,c)
+2: {
+3: 	return a+b+c;
+4: }
+
+1 -----> 0
+2 -----> 0
+3 -----> 1 unit
+4 -----> 0
+
+tc(addition) = 1 unit
+
+case1:
+
+algorithm addition(a,b,c)
+{
+	int d = a+b+c;
+	return d;
+}
+
+case2:
+
+algorithm addition(a,b,c)
+{
+	return a+b+c;
+}
+
+Ex: find max of two numbers
+---------------------------
+1: algorithm max(a,b)
+2: {
+3: 	return (a>b)?a:b;
+4: }
+
+1 -----> 0
+2 -----> 0
+3 -----> 1 unit
+4 -----> 0
+
+tc(addition) = 1 unit
+
+Ex: find max of two numbers
+---------------------------
+1: algorithm max(a,b)
+2: {
+3: 	if(a>b)
+4:	   return a;
+5:	else
+6:	   return b;
+7: }
+
+1 -----> 0
+2 -----> 0
+3 -----> 1 unit
+4 -----> 0
+5 -----> 0
+6 -----> 0
+7 -----> 0
+
+tc(addition) = 1 unit
+
+Ex: find max of three numbers
+---------------------------
+1: algorithm max(a,b,c)
+2: {
+3: 	if(a>b && a>c)
+4:	   return a;
+5:	else if(b>a && b>c)
+6:	   return b;
+7:	else 
+8:	   return c;
+9: }
+
+1 -----> 0
+2 -----> 0
+3 -----> 1 unit
+4 -----> 0
+5 -----> 1 unit
+6 -----> 0
+7 -----> 0
+8 -----> 0
+9 -----> 0
+
+tc(addition) = 2 unit
+
+
+Note: &&, || operators are also called shortcircuit operators
+
+cond1 && cond2 && cond3 && cond4 && cond5 ---> if first cond is false, then stop exe
+cond1 || cond2 || cond3 || cond4 || cond5 ---> if first cond is true, continue 
+
+SUCH BEUTIFUL NATURE THEY HAVE DESIGNED AT LANGUAGE LEVEL
+
+Ex: sum of 'n' natural numbers
+------------------------------
+1: algorithm sum(n)
+2: {
+3:	sum=0;
+4:	for(i=1;i<=n;i++)
+5:	{
+6:	    sum=sum+i;
+7:	}
+8:	return sum;
+9: }
+
+1 ------> 0
+2 ------> 0
+3 ------> 0
+4 ------> n+1 ['n' times true '1' time false]
+5 ------> 0
+6 ------> n
+7 ------> 0
+8 ------> 0
+9 ------> 0
+
+tc(sum) = n+1+n = 2n+1
+
+Ex: sum of 'n' even  numbers
+----------------------------
+1: algorithm sum(n)
+2: {
+3:	sum=0;
+4:	for(i=1;i<=n;i++)
+5:	{
+6:	    if(i%2==0)
+7:		sum=sum+i;
+8:	}
+9:	return sum;
+10: }
+
+1------> 0
+2------> 0
+3------> 0
+4 -----> n+1
+5 -----> 0
+6 -----> n
+7 -----> n/2
+8 -----> 0
+9 -----> 0
+10 ----> 0
+
+tc(sum) = n/2+2n+1 
+
+
+Ex: find max element present in an array
+----------------------------------------
+1.	algorithm maxElement(a,n)
+2.  {
+3.     max = a[0];
+4.     for(i=1;i<n;i++)
+5.	   {
+6.         if(max<a[i])
+7.         {
+8.			  max = a[i];
+9.         }
+10.    }
+11.    return max;
+12. }
+
+
+1-----> 0
+2 ----> 0
+3 ----> 0
+4 ----> n+1-1 = n  [1 comp we are not considering first element]
+5 ----> 0
+6 ----> n-1
+7 ----> 0
+8 ----> n-1
+9 ----> 0
+10 ---> 0
+11 ---> 0
+12 ---> 0
+
+tc(maxElement) = n+n-1+n-1=3n-2
+
+O(n)
+
+
+Ex1: sorting of an array
+------------------------
+algorithm sort(a,n)
+{
+	for(i=0;i<n;i++) ---------> n+1
+	{
+		for(j=i+1;j<n;j++) ---> n*(n) ---> n^2
+		{
+			if(a[i]>a[j]) ----> n^2 - 1
+			{
+				t=a[i];
+				a[i]=a[j];
+				a[j]=t;
+			}
+		}
+	}
+}
+
+ts(sort) -----> n+1+n2+n2-1 ----> 2n^2+n 
+
+if data is already in sorting ASC ----> x
+if data is already in sorting DESC ---> x
+if data is not in sorting     --------> x
+
+Ex2: sum of two matrices
+------------------------
+algorithm(a,b,n,n)
+{
+	for(i=0;i<n;i++) --------> n+1
+	{
+		for(j=0;j<n;j++) ----> n*(n+1) ---> n^2 + n
+		{
+			c[i][j] = a[i][j] + b[i][j]; ---> n^2
+		}
+	}
+}
+
+tc(sum of two mat) = n+1+n2+n+n2 ---> 2n^2 + 2n + 1 ---> O(n2)
+
+Sir please explain time complexity of  following cases
+
+
+for(i=1;i<=n;i++) ----> n+1
+
+Case 1
+for(int i=0; i<=n; i++) -----> n+1+1 ---> n+2
+Case 2
+for(int i=0; i<n; i++) ------> n+1-1+1 -> n+1
+Case 3
+for(int i=1; i<=n; i++) ------> n+1
+Case 4
+for(int i=1; i<n; i++) -------> n+1-1 ---> n
+
+
+
+Ex: Matrix Multiplication
+-------------------------
+
+for(i=0;i<n;i++) -------------------------------------> n+1+1-1===> n+1
+{
+	for(j=0;j<n;j++) ---------------------------------> n*(n+1+1-1) ==> n*(n+1) = n^2+n
+	{
+		c[i][j] = 0; ---------------------------------> n*(n) = n^2
+		for(k=0;k<n;k++) -----------------------------> n^2 * (n+1-1+1) ==> n^2*(n+1)
+		{
+			c[i][j] = c[i][j] + (a[i][k] * b[k][j]); --> n^2 * (n) ===> n^2*n=n^3
+		}
+	}
+}
+
+tc(mm) = n+1 + n^2+n + n^2 + n^3 + n^2 + n^3
+       = 2n3 + 3n2 + 2n + 1
+
+O(n3)
+
+space and time complexity of any algorithm
+
+algorithm cases    ----> best case, avg case, worst case
+asymptotic notations --> 5 notations
+
+introduction to algorithms
+introduction to data structures
+applications of data structures
+steps to prepare algorithm
+steps to prepare flowchart
+steps to implement a program in java
+sample programs (10 programs)
+analysis of algorithms
+space complexity calculation
+time complexity calculation
+
+
+best case, worst case and average case analysis
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+best case:
+----------
+if we are looking for a sol, which is avaialble at very first location, then such type of case is called as best case.
+
+Ex:
+	11, 12, 13, 14, 15, 16
+
+	key = 11
+
+	comp ---> 1st comp ---> best case
+
+
+worst case:
+-----------
+if we are looking for a data, which is available at last position or may not be available, then such type of cases are called as worst case.
+
+Ex:
+	11, 12, 13, 14, 15, 16
+
+	key = 16
+
+	comp ---> 6, success
+
+	key = 17
+
+	comp ---> 6, failure
+
+average case:
+-------------
+if we are looking for multiple data's, the time/space taken for that alg is calcualted based on sum of the possible case.
+
+Ex:
+	11, 12, 13, 14, 15, 16
+
+	key=11 ----> 1
+	key=12 ----> 2
+	key=13 ----> 3
+	key=14 ----> 4
+	key=15 ----> 5
+	key=16 ----> 6
+	key=17 ----> 6
+
+	avg case ===> total comp/num.of cases
+
+Note: we can ignore this case.
+
+Real time example:
+------------------
+
+i have given Rs. 10,000/- to my friend....
+
+1st of everymonth -----> 50,000/-
+15th of everymonth ----> 5000/-
+30th of everymonth ----> 1000/-
+
+1) 1st nov 2022 ----> Happy ----> Best case
+2) 14th nov 2022 ---> Good -----> Average case
+3) 16th nov 2022 ---> Good -----> Average case
+4) end of the month-> Good -----> Worst case
+
+Note: we can ignore this average case.
+
+
+best case ------> 1 unit (constant value) ----> O(1)
+
+average case ---> n units ------n-2--------------> O(n)
+
+worst case ------> n units -----n--------------> O(n)
+
+Ex: find max element present in an array
+----------------------------------------
+1.	algorithm maxElement(a,n)
+2.  {
+3.     max = a[0];
+4.     for(i=1;i<n;i++)
+5.	   {
+6.         if(max<a[i])
+7.         {
+8.			  max = a[i];
+9.         }
+10.    }
+11.    return max;
+12. }
+
+
+11, 10, 9, 8, 7, 6 ----> max: 11
+
+Hence, we will calcualte time and space complexity based on only WORST CASE COMP.
+
+O(----)
+
+O(1), O(n), O(n2), O(n3), O(logn), O(nlogn) etc
+
+
+Asymptotic Notations:
+~~~~~~~~~~~~~~~~~~~~~
+it is used to measure/represent time and space complexity of any algorithm.
+
+1. Big-Oh 		 ----> O
+2. Omega 	  	 ----> W
+3. Theta 		-----> theta
+4. Little oh 		-> o
+5. Little omega	   --> w little omega
+
+
+Big "Oh" (O):-
+~~~~~~~~~~~~~~
+a function f(n) is said to be in O(g(n)) denoted by f(n)=O(g(n)) is bounded above by some constant multiple of g(n) for all n, i.e. there exist positive constant 'c' and non-negative integer 'n0' such that f(n)<=c*g(n) for every n>=n0.
+
+diagram
+
+Ex:
+
+f(n) = 2n+2
+g(n) = n^2
+
+where n>=3
+
+Omega Notation (W):-
+~~~~~~~~~~~~~~~~~~~~
+a function f(n) is said to be in W(g(n)) denoted by f(n)=W(g(n)) is bounded below by some constant multiple of g(n) for all n, i.e. there exist positive constant 'c' and non-negative integer 'n0' such that f(n)>=c*g(n) for every n>=n0.
+
+diagram
+
+Ex:
+
+f(n) = 2n^2 + 3
+g(n) = 7n
+
+where n0>=3
+
+Theta notation (0):-
+~~~~~~~~~~~~~~~~~~~~
+a function f(n) is said to be in 0(g(n)) denoted by f(n)=0(g(n)) is bounded with above and below by some constant multiples of g(n) for all n, i.e. there exist positive constant 'c1' and 'c2' and non-negative integer 'n0' such that c1*g(n)<=f(n)<=c2*g(n) for every n>=n0.
+
+
+digram
+
+Ex:
+
+f(n) = 4n+1
+g(n) = n , c1=4 and c2 = 5
+
+where n>=1
+
+
+    
+    
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
