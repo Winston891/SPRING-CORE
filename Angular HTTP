@@ -1,0 +1,35 @@
+HTTP : 
+
+  1.It is a Protocol which is used for Data Communication between a Front End Application and a Web Server.
+  
+  2.It is the Foundation of Data Communication for WWW[World Wide Web]
+  
+RESTful Web Service:
+
+  REST[Representational State Transfer] : It is a Architecture which consist of Rules which needs to be followed if we want our services
+  to be RESTful Web Service.
+  
+  They are 
+          1.Light weight
+          2.Highly Scalable
+          3.Maintainable
+          4.Very Commonly use to create API for Web Based Apps
+          
+RESTful CRUD and HTTP
+
+  All Web Applications has CRUD Operations.The Following List Provides the type of request for the type of operation with a type of response
+  
+    CREATE (C) - POST Request - Returns 201 If Success
+    
+    READ (R) - GET Request - Returns 200 If Success
+    
+    UPDATE (U) - PUT/PATCH Request - Returns 204 If Success
+    
+    DELETE (D) - DELETE Request - Returns 204 If Success
+   
+Angular HTTP Communication : The Angular Application Requests to Web Server using HTTP Request and Web Server responds to Angular App using
+                             HTTP Response.
+
+
+  
+  
