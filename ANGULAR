@@ -1,0 +1,82 @@
+tsconfig.json : The tsconfig.json file specifies the root files and the compiler options required to compile the project.
+
+tsconfig.spec.json : Used to Compile the Typescript Files which are used for testing
+
+tsconfig.app.json : Used to Compile the TypeScript Files which are used for Development
+
+Readme.md : Provides Description About Your Project
+
+package.json : The package.json file is the heart of any Node project. It records important metadata about a project which is required 
+before publishing to NPM, and also defines functional attributes of a project that npm uses to install dependencies, run scripts, and 
+identify the entry point to our package.
+
+  In package.json, dependencies --> Libraries for production build
+                   devDependencies --> Libraries for Development
+                   
+package-lock.json : If you're collaborating on a shared project with multiple developers, and you want to ensures that installations 
+                    remain identical for all developers and environments, you need to use package-lock.json
+                    
+karma.conf.js : Used for running tests, which can track source code changes and display the percentage of code tests coverage.
+
+angular.json : It holds Configurations of a Project
+
+.g
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lifecycle hooks : Lifecycle hooks are a special functionality in Angular that allow us to “hook into” and run code at a specific lifecycle 
+                  event of a component or directive.
+                  
+                  1.ngOnChanges
+                  2.ngOnInit
+                  3.ngDoCheck
+                  4.ngAfterContentInit
+                  5.ngAfterContentChecked
+                  6.ngAfterViewInit
+                  7.ngAfterViewChecked
+                  8.ngOnDestroy
+                  
+   Note : 1.ngOnInit is placed automatically while creating a component via Angular CLI Command
+          2.Each Lifecycle hook method is placed in a interface of same name
+          
+   Note : 1.constructor block gets called when Component gets Rendered on the view then ngOnInit is called
+          2.Constructor will be used to inject Services and ngOnInit is used for writing Logics which needs to be as soon as Component gets
+          Rendered
+          
+          Knowledge of Component Communication is Necessary
+          
+  Component Communication : Scenarios in which Two or more Components needs to Communicate to achieve an Activity.
+  
+    There are 3 Ways for Component Interaction
+      
+       1.Using @Input and @Output
+       2.Using @ViewChild and @ContentChild
+       3.Using Service
+  
+  
+   
