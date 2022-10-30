@@ -4,9 +4,15 @@ npm start : this is an npm command that will run the npm command(s) from the pac
             doesn't just have to run 'ng serve'. 
             
             
-tsconfig.json : It configures the rules for typescript.It also defines the environment for typescript in angular application.
+tsconfig.json : It configures the rules for typescript for the entire workspace.
 
-tsconfig.app.json : It holds 
+tsconfig.app.json : It holds the rules for Typescript , Particularly for the application.
+
+tsconfig.spec.json : It holds Typescript configuration for testing.
+
+Readme.md : Description of the Application
+
+            
 
             
 
