@@ -1,3 +1,37 @@
+ng serve :It serve a project that is 'Angular CLI aware', i.e. a project that has been created using the Angular CLI.
+
+npm start : this is an npm command that will run the npm command(s) from the package.json that have the identifier 'start', and it 
+            doesn't just have to run 'ng serve'. 
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 tsconfig.json : The tsconfig.json file specifies the root files and the compiler options required to compile the project.
 
 tsconfig.spec.json : Used to Compile the Typescript Files which are used for testing
